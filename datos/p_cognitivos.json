@@ -1,0 +1,20 @@
+[
+  {
+"id":101,
+"id_juegos":1,
+"p_cognitivo":"Atención",
+"descripcion":"A pesar del desorbitado número de elementos que nos acompañan en cada momento, somos capaces de atender a un gran número de estímulos y también de dirigir nuestra atención en función de nuestros intereses."
+},
+{
+"id":102,
+"id_juegos":2,
+"p_cognitivo":"Memoria",
+"descripcion":"Tenemos diversos tipos de memoria; como la memoria sensorial, la memoria a corto plazo, la memoria de trabajo, la memoria semántica, la memoria autobiográfica, etc. Estas clases interactúan entre ellas, pero no todas dependen de las mismas partes del cerebro"
+},
+{
+"id":103,
+"id_juegos":3,
+"p_cognitivo":"Sensación y percepción",
+"descripcion":"Las sensaciones son provocadas por los diversos estímulos existentes en nuestro entorno. Nos llegan a través de nuestros sentidos y nos permiten conocer información del mundo exterior. Son datos inmediatos que recibimos del ambiente o de nuestro propio cuerpo. En cambio, el proceso mental básico de percepción implica cierta interpretación de los elementos percibidos"
+}
+]

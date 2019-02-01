@@ -1,0 +1,21 @@
+
+[
+  {
+"id":1,
+"nombre":"Juega al bingo",
+"descripcion":"Aunque no lo creas, jugar al bingo hace que entrenes algunas de tus funciones cognitivas como el reconocimiento,
+la discriminaciin de esta
+imulos, agilidad y rapidez en la busqueda de simbolos, y coordinacion motora entre la mano, el oido y la vista.
+Recuerda tener precaucion y moderacion a la hora de jugar, ya que puede tornarse una actividad adictiva"
+},
+{
+ "id":2,
+ "nombre":"Memoriza tu dia a dia",
+"descripcion":"A ultima hora del dia antes de irte a la cama, intenta recordar aspectos que han sucedido durante la jornada, como, por ejemplo, que has desayunado, recordar una de las noticias que viste en el periodico, cual fue la ultima persona con la que hablaste por telefono."
+},
+{
+ "id":3,
+"nombre":"Sudokus",
+"descripcion":"Se trata de un rompecabezas numurico que seguro que alguna vez has visto. La resolucion del juego requiere paciencia, y concentracion. Con este ejercicio se desarrollan funciones como la percepcion, analisis deductivo, planificacion, coordinacion y memoria de trabajo."
+}
+]

@@ -1,0 +1,21 @@
+[
+{
+"id":201,
+"id_juegos":4,
+"p_mental":"Orientación",
+"descripcion":"Es la capacidad que nos permite ser conscientes de la situación en la que nos encontramos en cada momento. La orientación puede ser personal, la cual se refiere a nuestra propia historia e identidad, temporal o espacial. Saber dónde está tu casa, que edad tienes o cómo te llamas, son conocimientos
+ que otorga la orientación."
+},
+{
+"id":202,
+"id_juegos":2,
+"p_mental":"Atención",
+"descripcion":"llamamos atención a la capacidad de permanecer activados ante un estímulo determinado, para tener un buen procesamiento de la información. Puede ser atención sostenida, selectiva o alternante."
+},
+{
+"id":203,
+"id_juegos":6,
+"p_mental":"Funciones ejecutivas",
+"descripcion":"son aquellas habilidades que están dirigidas a la consecución de objetivos objetivos. Serían las siguientes: memoria de trabajo, planificación, razonamiento, flexibilidad, inhibición, toma de decisiones, estimación de tiempo, ejecución de doble tarea o multitarea"
+}
+]

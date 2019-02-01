@@ -1,0 +1,24 @@
+[
+{
+"id":301,
+"id_juegos":1,
+"t_mente":"Reducción de la información sensorial",
+
+"descripcion":"esto quiere decir que el mundo en el que vivimos está en constante movimiento, y nos llegan infinidad de estímulos en cada momento. Por lo que el cerebro tiene la capacidad de tomar solo la información relevante para ti, y además ordenarla y reducirla para que el gasto energético no sea enorme"
+},
+{
+"id":302,
+ "id_juegos":2,
+ "t_mente":"Almacenar información y recuperación",
+"descripcion":"necesitamos un almacén donde guardar toda la información que creemos importante para que cuando la volvamos a utilizar la tengamos accesible y
+disponible. Ese almacén, querido lector, es tu cerebro."
+},
+{
+"id":303,
+
+ "id_juegos":3,
+ "t_mente":"Uso de la información",
+
+"descripcion":"Nos permiten utilizar la información que necesitamos en cada momento, y poder interactuar con el mundo que nos rodea de una forma óptima y eficiente"
+}
+]
